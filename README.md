@@ -6,8 +6,10 @@ In this repository, I'll share some of my works and interests.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valebanco&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills And Experience
-* ![alt text] (https://www.flaticon.com/free-icons/android) Java for Android
+* Java for Android
 * Keras & TensorFlow
+* Dart Flutter
+* Firebase
 
 
 

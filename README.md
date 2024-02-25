@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, Welcome to My GitHub! 👋
 
-<!--
-**valebanco/valebanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Davide from Italy, a developer enthusiast with a strong interest in web , Android and ML development.
+In this repository, I'll share some of my works and interests.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valebanco&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills And Experience
+* ![alt text] (https://www.flaticon.com/free-icons/android) Java for Android
+* Keras & TensorFlow
+
+
+
+
+

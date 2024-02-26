@@ -7,9 +7,9 @@ In this repository, I'll share some of my works and interests.
 
 ### Skills And Experience
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="25" height="25"/>&nbsp;
-* Java for Android
-* Python, Keras & TensorFlow
+
+* Java for Android <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="25" height="25"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="50"/>&nbsp;
+* Python, Keras & TensorFlow 
 * Dart Flutter
 * Firebase
 

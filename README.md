@@ -8,12 +8,14 @@ In this repository, I'll share some of my works and interests.
 * Java,Kotlin for Android
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="java" alt="java"  width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="java" alt="java"  width="15" height="15"/>&nbsp;
+
 * Python, Keras & TensorFlow
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="java" alt="java" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" title="java" alt="java"  width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="java" alt="java" width="25" height="25"/>&nbsp;
 * Dart Flutter
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="java" alt="java"  width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="java" alt="java"  width="15" height="15"/>&nbsp;
 * Firebase
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="java" alt="java" width="25" height="25"/>&nbsp;
 
